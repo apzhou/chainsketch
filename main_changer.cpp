@@ -107,10 +107,9 @@ error += hh*1.0/it->second;
     }
     delete heavychangerchain; 
 	std::cout<<"\nChainSketch"<<std::endl;
-     	std::cout<<"\nMemory    "<<memory_size<<std::endl;
  	std::cout<<"\nMemory    "<<memory_size<<std::endl;
         std::cout<<"\nprecision "<<precision<<std::endl;
-	std::cout<<"\nRecall    "<<precision<<std::endl;
+	std::cout<<"\nRecall    "<<recall<<std::endl;
 	std::cout<<"\nARE       "<<error<<std::endl;
 
 }
