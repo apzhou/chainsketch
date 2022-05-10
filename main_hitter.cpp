@@ -89,7 +89,7 @@ int bucket_num=memory_size*1024/(12*4);  //8 bytes flow key+4 Bytes count
      			std::cout<<"\nMemory    "<<memory_size<<std::endl;
  			std::cout<<"\nMemory    "<<memory_size<<std::endl;
         		std::cout<<"\nprecision "<<precision<<std::endl;
-			std::cout<<"\nRecall    "<<precision<<std::endl;
+			std::cout<<"\nRecall    "<<recall<<std::endl;
 			std::cout<<"\nARE       "<<error<<std::endl;
 
 	}
