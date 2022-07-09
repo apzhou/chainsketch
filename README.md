@@ -2,6 +2,8 @@
 ---
 **ChainSketch** uses the selective replacement strategy to mitigate the over-estimation issue. **ChainSketch** utilizes the hash chain and compact structure to improve memory efficiency. We implement the ChainSketch on OVS platform, P4-based testbed and large-scale simulations to process heavy hitter and heavy changer detection. The results of trace-driven tests show that, ChainSketch greatly improves the F1-Score compared with the state-of-the-art solutions.
 
+We build the **ChainSketch** code based on the open-source code of [MV-Sketch](https://github.com/Grace-TL/MV-Sketch) which inspired us a lot. We thank them for their contributions.
+
 
 ---
 ## Files and Directories
