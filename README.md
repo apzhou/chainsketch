@@ -55,5 +55,6 @@ $ ./main_changer
 - Note that you can change the configuration of ChainSketch, e.g. number of rows and buckets in the example source code for testing.
 
 
-
+## Publication
+ChainSketch: An Efficient and Accurate Sketch for Heavy Flow Detection. Jiawei Huang, Wenlu Zhang, Yijun Li, Lin Li, Zhaoyi Li, Jin Ye, Jianxin Wang. IEEE/ACM Transactions on Networking, 2022
 
